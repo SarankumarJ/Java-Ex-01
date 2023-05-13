@@ -1,25 +1,25 @@
 # EXP-1 Java program to print the Arithmetic operations
-## AIM:
+## Aim:
 To write java program to print the Arithmetic operations.
 
-## PROCEDURE:
-### STEP1:
+## Procedure:-
+### Step 1:
 Import the required packages.
 
-### STEP2:
+### Step 2:
 Get the input for arithmetic operations from the user.
 
-### STEP3:
+### Step 3:
 Perform arithmetic operations using the arithmetic operator.
 
-### STEP4:
+### Step 4:
 Display the result of the operations using print function.
 
 
-### STEP5:
+### Step 5:
 Stop the execution.
 
-## PROGRAM:-
+## Program:-
 ```java
 import java.util.*;
 public class Main
@@ -45,8 +45,10 @@ public class Main
     }
 }
 ```
-OUTPUT:-
+Output:-
+
 ![238122570-27d459bb-54b2-4716-b992-ab8691043310](https://github.com/SarankumarJ/Java-Ex-01/assets/94778101/03c76619-d06a-46df-a49f-7572723a3ee9)
 
-RESULT:-
+Result:-
+
 A java program to print the Arithmetic operations has been executed Successfully.
